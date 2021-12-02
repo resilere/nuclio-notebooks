@@ -1,3 +1,7 @@
 /.ipynb_checkpoints
 
 dir_to_ignore/final
+
+*.pdf
+*.zip
+*.csv
